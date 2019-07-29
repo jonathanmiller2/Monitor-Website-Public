@@ -19,4 +19,4 @@ The code in this project shows (some of) my capability as a full-stack developer
 * Event-driven website programming
 * Embedded JS
 * Use of open-source packages in web development
-* Database interaction
+* Website-database interaction
